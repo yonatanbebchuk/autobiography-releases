@@ -37,6 +37,8 @@ The record lives on your Mac, in `~/Library/Application Support/Autobiography`, 
 
 What the app talks to: Apple, for iCloud and to turn your location into a city; Google, only if you sign in; GitHub, to look for a newer build; and whatever you connect yourself.
 
+The full statement is the [privacy policy](https://yonatanbebchuk.com/projects/autobiography/privacy), which the app also links from **Settings › General**.
+
 To remove everything: quit the app, delete it from Applications, and delete `~/Library/Application Support/Autobiography`.
 
 ## Problems
