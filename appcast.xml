@@ -4,6 +4,16 @@
         <title>Autobiography</title>
         <item>
             <title>0.1</title>
+            <pubDate>Tue, 24 Nov 2026 12:40:09 -0500</pubDate>
+            <link>https://github.com/yonatanbebchuk/autobiography-releases</link>
+            <sparkle:channel>dev</sparkle:channel>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yonatanbebchuk/autobiography-releases/releases/download/mac-0.1-48/Autobiography-0.1-48.zip" length="18754978" type="application/octet-stream" sparkle:edSignature="FB2Az68Ijmxgv1OAx0PQLGhc+NBGjMaN0w2c4mGOI5i/gSe8/Rqn7PTFmTgderD3w5F6BYb+lNcbqH+b/V3XBg=="/>
+        </item>
+        <item>
+            <title>0.1</title>
             <pubDate>Tue, 24 Nov 2026 12:32:26 -0500</pubDate>
             <link>https://github.com/yonatanbebchuk/autobiography-releases</link>
             <sparkle:channel>dev</sparkle:channel>
